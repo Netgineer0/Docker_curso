@@ -30,6 +30,8 @@ Algunos de los comandos basicos dentro de docker son:
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/6_docker.PNG)
 
 ## Contenedores vs Máquinas Virtuales
-- Los contenedores comparten el kernel del sistema operativo, ejecutándose como procesos aislados, mientras que las máquinas virtuales requieren un sistema operativo completo por instancia\
+- Los contenedores comparten el kernel del sistema operativo, ejecutándose como procesos aislados, mientras que las máquinas virtuales requieren un sistema operativo completo por instancia
 - Esto los hace más eficientes en recursos y más rápidos al iniciar: ocupan megabytes en lugar de gigabytes, y arrancan en segundos 
 
+## HOLA MUNDO en Docker
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/7_docker.PNG)
