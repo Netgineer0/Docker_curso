@@ -34,8 +34,8 @@ Algunos de los comandos basicos dentro de docker son:
 - Esto los hace más eficientes en recursos y más rápidos al iniciar: ocupan megabytes en lugar de gigabytes, y arrancan en segundos 
 
 ## HOLA MUNDO en Docker
-
  Muestra cómo ejecutar imágenes sencillas como hello-world
+ 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/7_docker.PNG)
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/8_docker.PNG)
