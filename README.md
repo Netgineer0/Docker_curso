@@ -23,3 +23,5 @@ Permite aislamiento entre aplicaciones, evitando conflictos de dependencias.\
 Algunos de los comandos mas utilizados son:
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4_docker.PNG)
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/5_docker.PNG)
