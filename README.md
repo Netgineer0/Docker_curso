@@ -63,5 +63,5 @@ Otra alternativa que presenta es el comando que se utiliza en la siguiente image
 ## Borrar imagenes
 Se puede eliminar por el nombre de la imagen
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/14_docker.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/12_docker.PNG)
 
