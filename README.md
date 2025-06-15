@@ -48,10 +48,10 @@ los contenedores creados
 
 Para visualizar el cambio hecho previamente se puede ejecutar el comando **container docker ls -a**. O simplemente dirigirnos hacía docker desktop y visualizar el resultado, como se muestra a continuación
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/10_docker.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/10_container.PNG)
 
 Otra alternativa que se emplea para realizar el mismo proceso es el siguiente
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/11_docker.PNG)
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/12_docker.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/12_container.PNG)
