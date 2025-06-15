@@ -55,3 +55,7 @@ Otra alternativa que se emplea para realizar el mismo proceso es el siguiente
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/11_docker.PNG)
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/12_container.PNG)
+
+Otra alternativa que presenta es el comando que se utiliza en la siguiente imagen. Es requerido cuando queremos eliminar todos los contenedores creados
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/13_container.PNG)
