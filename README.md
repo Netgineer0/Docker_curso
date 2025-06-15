@@ -59,3 +59,9 @@ Otra alternativa que se emplea para realizar el mismo proceso es el siguiente
 Otra alternativa que presenta es el comando que se utiliza en la siguiente imagen. Es requerido cuando queremos eliminar todos los contenedores creados
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/13_container.PNG)
+
+## Borrar imagenes
+Se puede eliminar por el nombre de la imagen
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/14_docker.PNG)
+
