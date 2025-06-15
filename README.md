@@ -20,7 +20,9 @@ En el software de Visual Basic, se instalo la extensión Acyvitus Bar
 Permite aislamiento entre aplicaciones, evitando conflictos de dependencias.\
 **Optimiza recursos:**, ya que múltiples contenedores pueden correr en una misma máquina sin peso de VMs completas.
 
-Algunos de los comandos basicos dentro de docoker son:
+Algunos de los comandos basicos dentro de docker son:
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/6_docker.PNG)
+
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4_docker.PNG)
 
