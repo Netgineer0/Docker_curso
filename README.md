@@ -41,5 +41,12 @@ Algunos de los comandos basicos dentro de docker son:
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/8_docker.PNG)
 
 ## Borrar contenedores e imágenes
-A medida que se trabaja en docker se acumulan contenedores parados, imágenes antiguas y componentes intermedios que ocupan espacio en disco. Con el siguiente comando se elimino alguno de los contenedores creados
+A medida que se trabaja en docker se acumulan contenedores parados, imágenes antiguas y componentes intermedios que ocupan espacio en disco. Con el siguiente comando se elimino alguno de
+los contenedores creados
+
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/9_docker.PNG)
+
+Para visualizar el cambio hecho previamente se puede ejecutar el comando **container docker ls -a**. O simplemente dirigirnos hacía docker desktop y visualizar el resultado, como se muestra a continuación
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/10_docker.PNG)
+
