@@ -83,3 +83,25 @@ Se utiliza para gestionar aplicaciones y aumentar la eficiencia en el desarrollo
 Se crea una nueva carpeta 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/10_compose.PNG)
 
+Luego, se dirige en la carpeta que se acaba de crear
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/11_compose.PNG)
+
+Se crea el archivo app.py en la carpeta y se debe introducir el siguiente código
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/2_compose.PNG)
+
+Se crea también el archivo requirements.txt con las dependencias necesarias:
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/compose_textp.png)
+
+Dockerfile se utiliza para crear la imagen de Docker. Se crea un archivo sin extension
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/dockerfile.png)
+
+Se debe configurar los servicios “redis” y “web” en docker-compose.yml
+Se crea el archivo app.py en la carpeta y se debe introducir el siguiente código
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3_compose.PNG)
+
+Se inicia la aplicación desde la carpeta del proyecto
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/compose_correr.PNG)
+
+
+
+
