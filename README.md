@@ -116,3 +116,5 @@ Se ejecuta la aplicación. Como se muestra a continuación. Y cada vez que visit
 
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/corriendo.PNG)
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/er.PNG)
