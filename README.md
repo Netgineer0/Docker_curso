@@ -94,7 +94,7 @@ Se crea el archivo app.py en la carpeta y se debe introducir el siguiente códig
 
 Se crea también el archivo requirements.txt con las dependencias necesarias:
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/compose_textp.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/compose_texto.PNG)
 
 Dockerfile se utiliza para crear la imagen de Docker. Se crea un archivo sin extension
 
