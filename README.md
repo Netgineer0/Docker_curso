@@ -65,3 +65,21 @@ Se puede eliminar por el nombre de la imagen
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/12_docker.PNG)
 
+
+## Docker compose
+Se utiliza para gestionar aplicaciones y aumentar la eficiencia en el desarrollo de contenedores. La configuración se guarda en un único archivo YAML, lo que permite crear y escalar aplicaciones fácilmente. Docker Compose se utiliza a menudo para configurar un entorno local
+
+## Comandas básicos dentro de Docker compose
+- **docker-compose up:**	Inicia los contenedores definidos en el YAML
+- **docker-compose up -d:**	Inicia los contenedores en segundo plano 
+- **docker-compose down:**	Detiene y elimina los contenedores, redes y volúmenes
+- **docker-compose build:**	Construye las imágenes 
+- **docker-compose ps:**	Muestra el estado de los contenedores
+- **docker-compose logs:**	Muestra los servicios
+- **docker-compose exec <srv>:**	Ejecuta un comando en un contenedor activo
+
+## Ejemplo práctico de Docker compose
+
+Se crea una nueva carpeta 
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/10_compose.PNG)
+
