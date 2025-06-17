@@ -94,11 +94,11 @@ Se crea el archivo app.py en la carpeta y se debe introducir el siguiente códig
 
 Se crea también el archivo requirements.txt con las dependencias necesarias:
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/compose_textp.png)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/compose_textp.PNG)
 
 Dockerfile se utiliza para crear la imagen de Docker. Se crea un archivo sin extension
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/dockerfile.png)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/dockerfile.PNG)
 
 Se debe configurar los servicios “redis” y “web” en docker-compose.yml
 
