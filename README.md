@@ -110,6 +110,6 @@ Se inicia la aplicación desde la carpeta del proyecto
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/compose_correr.PNG)
 
+Se ejecuta la aplicación. Como se muestra a continuación. Y cada vez que visitamos la imagen, aumenta la visita
 
-
-
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/6_1.PNG)
