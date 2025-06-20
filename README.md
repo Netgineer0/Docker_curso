@@ -135,7 +135,7 @@ Se debe de revisar cada uno de los archivos. Y verificar si la versión que tene
 
 2. Otro ejemplo práctico que se ejecuto dentro de consola. Pero que se incluyo archivos .json para ejecutar un contenedor que realice una petición HTTP a una API externa
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3_pc_2.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3_pc2.PNG)
 
 A continuación se muestra cuál fue el orden de los archivos y qué tipo se crearon
 
@@ -146,4 +146,4 @@ A continuación se muestra cuál fue el orden de los archivos y qué tipo se cre
 
 En cuento a docker desktop. Se puede visualizar de manera gráfica si los contenedores estan dados de alta
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4pc_2.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4_pc2.PNG)
