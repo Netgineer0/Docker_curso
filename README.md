@@ -132,3 +132,18 @@ Seguidamente iniciar el contenedor
 Se debe de revisar cada uno de los archivos. Y verificar si la versión que tenemos instalada en nuestro equipo es el correcto. Para que el proyecto pueda levantar
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3pc.PNG)
+
+2. Otro ejemplo práctico que se ejecuto dentro de consola. Pero que se incluyo archivos .json para ejecutar un contenedor que realice una petición HTTP a una API externa
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3pc_2.PNG)
+
+A continuación se muestra cuál fue el orden de los archivos y qué tipo se crearon
+
+**docker-compose.yml:* Define el servicio que construirá y ejecutará el contenedor \
+**Dockerfile:* Construye una imagen de Node.js para ejecutar la app \
+**package.json:* Especifica las dependencias del proyecto \
+**index.jsindex.js:*  realiza la petición HTTP a la API
+
+En cuento a docker desktop. Se puede visualizar de manera gráfica si los contenedores estan dados de alta
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4pc_2.PNG)
