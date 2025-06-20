@@ -147,3 +147,7 @@ A continuación se muestra cuál fue el orden de los archivos y qué tipo se cre
 En cuento a docker desktop. Se puede visualizar de manera gráfica si los contenedores estan dados de alta
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4_pc2_2.PNG)
+
+3. Por últim se creo un contenedor compose, para que se visualizará en el puerto 3000, la misma API que se ejecuto dentro de consola. A continuación se muestra los comandos ejecutados para que el contenedor levantará
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/contenedor.PNG)
