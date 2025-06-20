@@ -146,4 +146,4 @@ A continuación se muestra cuál fue el orden de los archivos y qué tipo se cre
 
 En cuento a docker desktop. Se puede visualizar de manera gráfica si los contenedores estan dados de alta
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4_pc2.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/4_pc2_2.PNG)
