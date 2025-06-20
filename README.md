@@ -122,20 +122,20 @@ Se ejecuta la aplicación. Como se muestra a continuación. Y cada vez que visit
 ## Práctica
 Lo primero que se realizo fue clonar el proyecto, seguido de establecerse en el directorio
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/1pc.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/1_pc.PNG)
 
 Seguidamente iniciar el contenedor
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/2pc.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/2_pc.PNG)
 
 
 Se debe de revisar cada uno de los archivos. Y verificar si la versión que tenemos instalada en nuestro equipo es el correcto. Para que el proyecto pueda levantar
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3pc.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3_pc.PNG)
 
 2. Otro ejemplo práctico que se ejecuto dentro de consola. Pero que se incluyo archivos .json para ejecutar un contenedor que realice una petición HTTP a una API externa
 
-![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3pc_2.PNG)
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3_pc_2.PNG)
 
 A continuación se muestra cuál fue el orden de los archivos y qué tipo se crearon
 
