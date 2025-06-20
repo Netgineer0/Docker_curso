@@ -120,10 +120,15 @@ Se ejecuta la aplicación. Como se muestra a continuación. Y cada vez que visit
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/er.PNG)
 
 ## Práctica
-Lo primero que se realizo fue clonar el proyecto
+Lo primero que se realizo fue clonar el proyecto, seguido de establecerse en el directorio
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/1pc.PNG)
 
 Seguidamente iniciar el contenedor
 
-Se deben de instalar de dependencias
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/2pc.PNG)
+
 
 Se debe de revisar cada uno de los archivos. Y verificar si la versión que tenemos instalada en nuestro equipo es el correcto. Para que el proyecto pueda levantar
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/3pc.PNG)
