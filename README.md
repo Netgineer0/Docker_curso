@@ -153,3 +153,10 @@ En cuento a docker desktop. Se puede visualizar de manera gráfica si los conten
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/contenedor.PNG)
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/contenedor2.PNG)
+
+Ademas se muestra los archivos creados
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/contenedor3.PNG)
+
+![docker](https://github.com/Netgineer0/Docker_curso/blob/main/contenedor4.PNG)
+
