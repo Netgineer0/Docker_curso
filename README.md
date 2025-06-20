@@ -118,3 +118,12 @@ Se ejecuta la aplicación. Como se muestra a continuación. Y cada vez que visit
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/corriendo.PNG)
 
 ![docker](https://github.com/Netgineer0/Docker_curso/blob/main/er.PNG)
+
+## Práctica
+Lo primero que se realizo fue clonar el proyecto
+
+Seguidamente iniciar el contenedor
+
+Se deben de instalar de dependencias
+
+Se debe de revisar cada uno de los archivos. Y verificar si la versión que tenemos instalada en nuestro equipo es el correcto. Para que el proyecto pueda levantar
